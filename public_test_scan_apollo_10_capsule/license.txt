@@ -1,0 +1,11 @@
+Model Information:
+* title:	[Public Test Scan] Apollo 10 Capsule
+* source:	https://sketchfab.com/3d-models/public-test-scan-apollo-10-capsule-4581bf090daa400a81156eef3936a981
+* author:	Thomas Flynn (https://sketchfab.com/nebulousflynn)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "[Public Test Scan] Apollo 10 Capsule" (https://sketchfab.com/3d-models/public-test-scan-apollo-10-capsule-4581bf090daa400a81156eef3936a981) by Thomas Flynn (https://sketchfab.com/nebulousflynn) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
